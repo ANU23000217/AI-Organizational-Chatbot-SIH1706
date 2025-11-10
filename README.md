@@ -18,5 +18,12 @@ Enhance chatbot security by enabling email-based two-factor authentication (2FA)
 
 Test the chatbot with sample queries and document uploads to evaluate response accuracy, speed, and user management.
 
+### Output:
+<img width="1442" height="577" alt="Screenshot 2025-11-10 084047" src="https://github.com/user-attachments/assets/6ab13a27-8a19-4263-9596-f7b428c23dde" />
+
+
+
+<img width="1353" height="549" alt="Screenshot 2025-11-10 083943" src="https://github.com/user-attachments/assets/f896406b-eca8-4fc9-92ca-d3fde2443313" />
+
 ### Result:
 The AI-driven enterprise chatbot effectively understands and responds to diverse organizational queries, processes documents for summarization, supports multiple concurrent users with fast response times, and enhances security with two-factor authentication, thereby improving organizational efficiency significantly.
