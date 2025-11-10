@@ -1,7 +1,7 @@
-### Aim:
+## Aim:
 To develop an AI-driven chatbot using deep learning and natural language processing techniques that can accurately understand and respond to diverse employee queries related to HR policies, IT support, company events, and other organizational matters. The chatbot should also be capable of processing uploaded documents to summarize or extract relevant keyword information, be scalable for concurrent users, maintain low response time, and incorporate 2-factor authentication for security.
 
-### Procedure:
+## Procedure:
 Collect publicly available sample data related to HR policies, IT support, company events, and other organizational topics for chatbot training.
 
 Preprocess and prepare the dataset, including question-answer pairs and document samples.
